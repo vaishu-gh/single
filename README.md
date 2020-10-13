@@ -1,1 +1,1 @@
-# single
+# single price grid component
